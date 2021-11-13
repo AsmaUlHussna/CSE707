@@ -2,7 +2,7 @@ Link to unlisted youtube video:
 https://youtu.be/9na4gP7kkAc
 
 Link to the slide:
-https://docs.google.com/presentation/.....
+https://docs.google.com/presentation/d/1rrIC-ZGBEs5x8ZMVkPnlG6YjhKuagUT6/edit?usp=drive_web&ouid=114719330323388266342&rtpof=true
 
 Design and Implementation of Operating System in
 Distributed Computer System Based on Virtual

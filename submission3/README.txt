@@ -1,13 +1,15 @@
 Link to unlisted youtube video:
 https://youtu.be/mslIMHSPNv0
 
-Link to the slide:
+Link to the Concept Map:
 https://drive.google.com/drive/folders/1utlGhMbGlkWiVLFPvUeEMggPQVvPUyhk
 
-
-Unique Book Chapter 2 mapping presentation
-
-
+Name, Author, Edition, year and publisher of the Book:
+Designing Distributed Systems
+Brendan Burns
+Ist edition
+2018
+O'Reilly Media, Inc
 
 Group Number:
 4

@@ -16,5 +16,5 @@ Group Members:
 21166025   Mohammad Ashekur Rahman               A
 21166030   Asma Ul Hussna                        B
 21166018   Iffat Immami Trisha                   C                      
-21266018   Sanjida Ali Shusmita                  D                                          
-21366007   Samiha Khan                           E                   
+21366018   Sanjida Ali Shusmita                  D                                          
+21266007   Samiha Khan                           E                   

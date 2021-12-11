@@ -11,6 +11,12 @@ Ist edition
 2018
 O'Reilly Media, Inc
 
+Link to the book:
+https://www.amazon.com/Designing-Distributed-Systems-Patterns-Paradigms/dp/1491983647
+
+Link to the book chapter:
+https://books.google.com/books...
+
 Group Number:
 4
 

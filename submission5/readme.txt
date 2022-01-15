@@ -5,10 +5,11 @@ Conference / Paper submission login URL:
  https://easychair.org/conferences/?conf=icaeee2022
 
 Paper title:
-Bangladesh Share Market Forecasting using Hidden Markov Model
+Analysis on Replicated Concurrency Control and Recovery in Distributed Database Systems
+
 
 Paper presentation:
-https://drive.google.com/drive/folders/1XRPllgbR02de6RcNfLruIWjaZJc55fil?usp=sharing
+https://drive.google.com/drive/folders/1iDFbDcMl6bn7SkctetxXuqbYqlLEVTnR?usp=sharing
 
 Paper submission date (to workshop/conference):
 15 January 2022

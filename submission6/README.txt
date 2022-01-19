@@ -24,8 +24,9 @@ did something else
 2. Bangladesh Share Market Forecasting Using Hidden Markov Model
 
 was active in slack:
-http://slack post URL1
-http://slack post URL2
+https://bucse707fall2021.slack.com/archives/C02GH5UFA5R/p1642614906031500
+https://bucse707fall2021.slack.com/archives/C02GH5UFA5R/p1642614963031900
+https://bucse707fall2021.slack.com/archives/C02GH5UFA5R/p1642615073032400
 
 Submitter:
 21166030 Asma Ul Hussna A
